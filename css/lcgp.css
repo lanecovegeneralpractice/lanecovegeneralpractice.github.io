@@ -8,3 +8,17 @@
     text-align: center;
     font-size: 4em;
 }
+
+.minor-heading-div {
+    border-bottom: solid;
+}
+
+.minor-heading {
+    font-weight: bold;
+    text-align: center;
+}
+
+.doctor-title {
+    font-weight: bold;
+    text-align: center;
+}
